@@ -121,7 +121,7 @@ không_thể	R
 ra	R 
 những		D 
 quyết_định	N 
-sáng suốt	A
+sáng_suốt	A
 .
 
 Tôi	P 
@@ -175,7 +175,8 @@ Bác_sĩ	N
 yêu_cầu	V 
 cô	N 
 phải	V 
-nằm_nghỉ	V 
+nằm V
+nghỉ	V 
 và	C 
 không	R	
 được	R 
@@ -276,7 +277,8 @@ lực 	N
 Hiếm 	A
 khi 	N
 chúng_ta 	P
-cảm_thấy 	V
+cảm V
+thấy 	V
 mệt_mỏi 	A
 khi 	N
 làm 	V
