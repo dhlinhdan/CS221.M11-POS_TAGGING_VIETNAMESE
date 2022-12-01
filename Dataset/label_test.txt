@@ -1,0 +1,153 @@
+Nếu 	C
+bạn 	N
+không 	R
+có 	V
+một 	M
+tín đồ 	N
+và 	Cc
+phải 	V
+làm 	V
+việc 	N
+vất vả	A
+, 	CH
+hãy 	R
+học 	V
+cách 	V
+thư giãn 	V
+bằng 	E
+biện pháp 	N
+thể chất	N
+.	CH
+
+Một 	M
+trong	E
+những 	L
+cách 	V
+tốt_nhất 	A
+giúp 	V
+chữa_trị 	V
+chứng	V
+mất_ngủ 	V
+là 	V
+khiến 	V
+cơ_thể 	N
+bạn 	N
+mệt_lử 	A
+bằng 	E
+những 	L
+hoạt_động 	V
+thể_chất	N
+.	CH
+
+Nếu 	C
+chúng_ta 	P
+đang 	R
+mệt	A
+, 	CH
+cơ_thể 	N
+sẽ 	R
+tự 	P
+bắt 	V
+ta 	P
+phải 	V
+ngủ	V
+, 	CH
+ngay 	T
+khi 	N
+ta 	P
+đang	R
+bước_đi	N
+.	CH
+
+Khi 	N
+buồn_ngủ 	A
+là 	V
+tự_nhiên 	A
+phải 	V
+ngủ	V
+, 	CH
+dù	C
+ý_chí 	N
+của 	E
+chúng_ta 	P
+có 	V
+mạnh_mẽ	A
+.	CH
+
+Hãy 	R
+làm	V
+cho 	E
+cơ_thể 	N
+bạn 	N
+mệt 	A
+đến 	V
+mức 	N
+không_thể 	R
+thức 	V
+được 	V
+nữa	T
+.	CH
+
+Lo_lắng 	Np
+về 	E
+chứng 	V
+mất_ngủ 	V
+thường 	R
+gây ra 	V
+những 	L
+hậu_quả 	N
+còn 	C
+tệ_hại 	A
+hơn 	A
+bản_thân 	N
+căn_bệnh 	N
+này	P
+.	CH
+
+Nhớ 	V
+rằng 	C
+chưa 	R
+có 	V
+ai 	P
+chết 	V
+vì 	E
+thiếu 	A
+ngủ	V
+.	CH
+
+Chúng_ta 	P
+có_thể 	R
+nhịn 	V
+ăn	V
+, 	CH
+nhịn 	V
+uống 	V
+lâu 	A
+hơn 	A
+là 	V
+nhịn 	V
+ngủ	V
+.	CH
+
+Khi 	N
+hoàn_toàn 	A
+kiệt_sức	V
+, 	CH
+con_người 	N
+vẫn 	R
+có thể 	R
+ngủ 	V
+được 	V
+giữa 	N
+trời 	N
+sấm_sét 	N
+đùng_đùng 	V
+hay 	C
+giữa 	N
+bom 	N
+đạn 	N
+hiểm_nguy 	A
+của 	E
+chiến_tranh	N
+.	CH
+
