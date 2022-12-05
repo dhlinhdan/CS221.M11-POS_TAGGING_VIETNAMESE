@@ -55,7 +55,7 @@ Nếu C
 vẫn R 
 cố V 
 làm V 
-như 
+như C
 thế N
 , 
 chúng_ta P 
@@ -134,7 +134,8 @@ không R
 lo_lắng V
 , 
 không R 
-cảm_thấy V 
+cảm V
+thấy V 
 khổ_sở A
 và C
 cũng R 
@@ -147,7 +148,8 @@ ngủ V
 là V
 lý_do N 
 ta P 
-cảm_thấy V 
+cảm 
+thấy V 
 khó A
 tìm 
 ra V 
@@ -232,7 +234,7 @@ mỗi N
 người N
 là V
 45 M
-kg 
+kg NN
 . 
 
 Người N
@@ -284,7 +286,8 @@ lực N
 Hiếm A
 khi N
 chúng_ta P
-cảm_thấy V
+cảm 
+thấy V
 mệt_mỏi A
 khi N
 làm V
@@ -385,6 +388,7 @@ giấc_ngủ N
 là V
 gì P
 .
+
 Nguyên_nhân N 
 thực_sự A 
 khiến V 
@@ -400,7 +404,7 @@ họ P
 chán V
 ngán V
 việc N
-Leo V
+eo V
 núi N
 .
 
@@ -437,7 +441,7 @@ khác A
 .
 
 Những D
-Lo_lắng N
+o_lắng N
 về E
 chứng N
 mất V
