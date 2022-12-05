@@ -8,7 +8,8 @@ tách
 khỏi
 quá_khứ
 và
-chôn_vùi
+chôn
+vùi
 nó
 .
 
@@ -44,8 +45,7 @@ hôm_qua
 .
 
 Quá_khứ
-mệnh
-mông
+mênh_mông
 và
 tương_lai
 bất_tận
@@ -55,12 +55,14 @@ Nếu
 vẫn
 cố
 làm
-như_thế
+như
+thế
 ,
 chúng_ta
 có_thể
 sẽ
-hủy_hoại
+hủy
+hoại
 thể_chất
 và
 tinh_thần
@@ -96,7 +98,8 @@ những
 tồi_tệ
 nhất
 có_thể
-xảy_ra
+xảy
+ra
 ,
 tôi
 tìm
@@ -147,7 +150,8 @@ ta
 cảm
 thấy
 khó
-tìm_ra
+tìm
+ra
 đáp_án
 cho
 vấn_đề
@@ -189,7 +193,8 @@ có
 bất_cứ
 chuyện
 gì
-xảy_ra
+xảy
+ra
 .
 
 Sự
@@ -283,7 +288,8 @@ mệt_mỏi
 khi
 làm
 một
-việc_gì
+việc
+gì
 đó
 lý_thú
 và
@@ -399,8 +405,10 @@ núi
 
 Ông
 vẫn
-làm_việc
-như_thường
+làm
+việc
+như
+thường
 và
 sống
 khỏe
@@ -473,7 +481,8 @@ một
 tín_đồ
 và
 phải
-làm_việc
+làm
+việc
 vất_vả
 ,
 hãy
@@ -611,7 +620,8 @@ sấm_sét
 đùng_đùng
 hay
 giữa
-bom_đạn
+bom
+đạn
 hiểm_nguy
 của
 chiến_tranh
