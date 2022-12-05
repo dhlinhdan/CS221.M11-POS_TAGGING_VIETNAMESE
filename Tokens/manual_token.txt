@@ -135,7 +135,8 @@ không
 lo_lắng
 ,
 không
-cảm_thấy
+cảm
+thấy
 khổ_sở
 và
 cũng
@@ -147,7 +148,8 @@ mất_ngủ
 là
 lý_do
 ta
-cảm_thấy
+cảm
+thấy
 khó
 tìm
 ra
@@ -155,7 +157,7 @@ ra
 cho
 vấn_đề
 của
-Mình
+ình
 .
 
 Tôi
@@ -385,6 +387,7 @@ giấc_ngủ
 là
 gì
 .
+
 Nguyên_nhân
 thực_sự
 khiến
@@ -399,7 +402,8 @@ do
 họ
 chán_ngán
 việc
-leo_núi
+leo
+núi
 .
 
 Ông
@@ -477,27 +481,28 @@ bạn
 không
 có
 một
-tínđồ
+tín_đồ
 và
 phải
 làm
 việc
-vấtvả
+vất_vả
 ,
 hãy
 học
 cách
-thưgiãn
+thư_giãn
 bằng
-biệnpháp
-thểchất
+biệnn_pháp
+thể_chất
 .
 
 Một
 trong
 những
 cách
-tốt_nhất
+tốt
+nhất
 giúp
 chữa_trị
 chứng
@@ -567,7 +572,7 @@ về
 chứng
 mất_ngủ
 thường
-gâyra
+gây_ra
 những
 hậu_quả
 còn
@@ -609,7 +614,7 @@ kiệt_sức
 ,
 con_người
 vẫn
-cóthể
+có_thể
 ngủ
 được
 giữa
