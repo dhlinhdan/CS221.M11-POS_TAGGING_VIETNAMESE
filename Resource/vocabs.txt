@@ -26147,6 +26147,7 @@ khóc_than
 khoe
 khoé
 khoẻ
+
 khoẻ_khoắn
 khoe_khoang
 khoẻ_mạnh
@@ -47578,6 +47579,7 @@ thủ_công_nghiệp
 thủ_cựu
 thủ_dâm
 thư_dãn
+thư_
 thứ_dân_viện
 thù_địch
 thư_điện_tử
@@ -51234,6 +51236,7 @@ tựu_trung
 tựu_trường
 tuy
 tuỳ
+
 tuỷ
 tuỵ
 tuỳ_bút
