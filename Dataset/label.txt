@@ -157,7 +157,7 @@ ra	V
 cho	E
 vấn_đề	N
 của	E
-ình	V
+mình	P
 .	CH
 
 Tôi	P
@@ -493,7 +493,7 @@ học	V
 cách	V
 thư_giãn	V
 bằng	E
-biệnn_pháp	V
+biện_pháp	N
 thể_chất	N
 .	CH
 
